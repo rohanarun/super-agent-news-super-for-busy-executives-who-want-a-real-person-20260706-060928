@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super for busy executives who want a real personal assistant|niche_landing|busy executives|2026-07-06T06:08:31Z') -> workflow-command-center hero, Outfit typography, gapless-bento-grid + workflow-playbook-timeline + implementation-checklist components, GSAP paradigms pinned-chapter-scroll and hover-physics. AIDA Check: Hero grabs attention, proof and market context build interest, workflow and cache economics create desire, CTAs drive action. Font Selection: Outfit via Fontshare. Hero Math Verification: clamp sizing ensures 2\u20133 line headline at common widths. Bento Density Verification: grid-auto-flow:dense confirmed. GSAP Motion Selection: guarded animations with fallback. Label Sweep & Button Check: primary black pill CTA, secondary white CTA verified.",
+  "generated_at": "2026-07-06T06:09:35.110850+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A premium, evidence\u2011based landing page for executives who need a personal AI agent that actually operates computers. Super is positioned as the sharper alternative to chat assistants like ChatGPT, Gemini, Siri, Grok, Folk, and Orchids by focusing on durable computer\u2011use workflows and a reusable computer\u2011use cache."
+}
